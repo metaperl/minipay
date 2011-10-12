@@ -1,0 +1,7 @@
+
+<form method="post" action="/buy">
+
+
+  <input type="submit" value="Submit">
+
+</form>
