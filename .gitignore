@@ -1,4 +1,5 @@
 lib/Local/Config/PayPal.pm
+lib/Local/PayPal/Config.pm
 lib/Local/DBIx/DBH.pm
 *~
 \#*#

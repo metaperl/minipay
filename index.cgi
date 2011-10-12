@@ -240,6 +240,13 @@ get '/faq' => sub {
 
 };
 
+get '/about' => sub {
+    my $self = shift;
+
+    $self->render( template => 'about' );
+
+};
+
 get '/questions' => sub {
     my $self = shift;
 
